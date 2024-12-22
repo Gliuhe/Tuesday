@@ -1,0 +1,327 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+#i09pf{
+  text-align:center;
+}
+#icrk4{
+  text-align:center;
+}
+#iwz3j{
+  margin:0px 0px 0px 3px;
+  padding:0px 0px 0px 5px;
+}
+*{
+  box-sizing:border-box;
+}
+body{
+  margin-top:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-left:0px;
+  font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+.panel{
+  color:rgb(51, 51, 51);
+  font-weight:100;
+}
+.logo path{
+  pointer-events:none;
+  fill:none;
+  stroke-linecap:round;
+  stroke-width:7;
+  stroke:rgb(255, 255, 255);
+}
+.description{
+  text-align:center;
+  font-size:1em;
+  font-weight:500;
+  line-height:1.8rem;
+  margin-bottom:1rem;
+}
+.wechat-group img{
+  max-width:220px;
+  height:auto;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-right-radius:8px;
+  border-bottom-left-radius:8px;
+  margin-top:0px;
+  margin-right:auto;
+  margin-bottom:0px;
+  margin-left:auto;
+  width:100%;
+}
+.welcome-img img{
+  width:100%;
+}
+.bg-gradient-primary{
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-right-radius:8px;
+  border-bottom-left-radius:8px;
+}
+#nav-1 .header-inner{
+  width:100%;
+}
+#nav-1 .header-inner::after{
+  content:" ";
+  height:0px;
+  display:block;
+  visibility:hidden;
+  clear:both;
+}
+#nav-1 h1{
+  float:left;
+  padding-top:0px;
+  padding-right:0px;
+  padding-bottom:0px;
+  padding-left:0px;
+  font-weight:900;
+  font-size:28px;
+  margin-bottom:0px;
+  text-transform:uppercase;
+  font-family:Roboto, Arial, sans-serif;
+}
+#nav-1 > a{
+  display:inline-block;
+  width:138px;
+  height:22px;
+}
+#nav-1 img{
+  height:22px;
+  width:auto;
+}
+#nav-1 nav{
+  float:right;
+  padding-top:0px;
+  padding-right:0px;
+  padding-bottom:0px;
+  padding-left:0px;
+}
+#nav-1 nav ul{
+  padding-top:0px;
+  padding-right:0px;
+  padding-bottom:0px;
+  padding-left:0px;
+  margin-top:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-left:0px;
+}
+#nav-1 nav ul li{
+  padding-top:0px;
+  padding-right:0px;
+  padding-bottom:0px;
+  padding-left:0px;
+  margin-top:0px;
+  margin-right:6px;
+  margin-bottom:0px;
+  margin-left:0px;
+  list-style-position:initial;
+  list-style-image:initial;
+  list-style-type:none;
+  display:inline-block;
+  zoom:1;
+}
+#nav-1 nav ul li a{
+  color:rgba(0, 0, 0, 0.5);
+  font-size:16px;
+  padding-top:6px;
+  padding-right:14px;
+  padding-bottom:6px;
+  padding-left:14px;
+  position:relative;
+  transition-behavior:normal;
+  transition-duration:0.2s;
+  transition-timing-function:ease;
+  transition-delay:0s;
+  transition-property:all;
+}
+#nav-1 nav ul li a:hover{
+  text-decoration-line:none;
+  text-decoration-thickness:initial;
+  text-decoration-style:initial;
+  text-decoration-color:initial;
+}
+#nav-1 nav ul li a.active, #nav-1 nav ul li a:focus{
+  outline-color:initial;
+  outline-style:none;
+  outline-width:initial;
+  text-decoration-line:none;
+  text-decoration-thickness:initial;
+  text-decoration-style:initial;
+  text-decoration-color:initial;
+  color:white;
+  background-image:initial;
+  background-position-x:initial;
+  background-position-y:initial;
+  background-size:initial;
+  background-repeat:initial;
+  background-attachment:initial;
+  background-origin:initial;
+  background-clip:initial;
+  background-color:rgb(31, 181, 123);
+  border-top-left-radius:5px;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+  border-bottom-left-radius:5px;
+}
+#nav-1{
+  padding-top:30px;
+  padding-right:0px;
+  padding-bottom:30px;
+  padding-left:0px;
+  width:100%;
+  margin-top:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-left:0px;
+  border-bottom-width:1px;
+  border-bottom-style:solid;
+  border-bottom-color:rgba(0, 0, 0, 0.1);
+  position:relative;
+}
+.htmlpage-row{
+  display:table;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  width:100%;
+}
+.htmlpage-cell{
+  width:8%;
+  display:table-cell;
+  height:75px;
+}
+.c4890{
+  padding:13px 33px 10px 19px;
+  font-family:"Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-size:34px;
+  font-weight:500;
+  color:#000000;
+  margin:0px 1348px 0px 0px;
+  text-align:center;
+}
+.c5440{
+  padding:10px;
+}
+.c5506{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  text-align:start;
+  word-spacing:0px;
+}
+.c5659{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  text-align:left;
+  word-spacing:0px;
+  margin:0px 0px 0px -263px;
+}
+.c8387{
+  color:#d983a6;
+  margin:0px 0px 0px 12px;
+}
+.c9865{
+  color:#d983a6;
+  margin:0px 0px 3px 33px;
+  padding:12px 0px 57px 195px;
+  background-image:url('https://gliuhe.github.io/Tuesday/play.png');
+}
+.v9865{
+  background-image:url('https://gliuhe.github.io/Tuesday/daily.png');
+  padding:12px 0px 57px 195px;
+  margin:0px 0px 3px 33px;
+}
+.aa22{
+  background-image:url('https://gliuhe.github.io/Tuesday/chat.png');
+  padding:12px 0px 57px 195px;
+  margin:0px 0px 3px 33px;
+}
+.c11949{
+  padding:10px;
+}
+.c12038{
+  color:#9c1515;
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  letter-spacing:normal;
+  word-spacing:0px;
+}
+.c12074{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  word-spacing:0px;
+}
+.c12083{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  word-spacing:0px;
+}
+.c12092{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  letter-spacing:normal;
+  word-spacing:0px;
+}
+.c12733{
+  padding:10px;
+}
+.c12830{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  word-spacing:0px;
+}
+.c12848{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  word-spacing:0px;
+}
+.c12857{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  word-spacing:0px;
+}
+.c12866{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  word-spacing:0px;
+}
+.c12884{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  word-spacing:0px;
+}
+.c12893{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  word-spacing:0px;
+}
+.c12902{
+  color:rgb(0, 0, 0);
+  font-family:"Microsoft YaHei";
+  font-size:medium;
+  letter-spacing:normal;
+  word-spacing:0px;
+}
+@media (max-width: 768px){
+  .htmlpage-cell{
+    width:100%;
+    display:block;
+  }
+}
